@@ -45,7 +45,7 @@ docker-compose up
 
 3. Modify iptables to forward S1-MME (SCTP) packets from eNB to the MME container.
 ```
-sudo sh foward_s1_to_mme.sh start
+sudo sh /home/YOURUSERNAME/docker-open5gs/forward_s1_to_mme.sh start
 ```
 
 ## License
