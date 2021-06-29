@@ -38,7 +38,7 @@ open5gs/open5gs-webui                            latest              f2a6fb2657a
 
 2. Fetch this repository, and run Docker containers.
 ```
-git clone https://github.com/hassiweb/docker-open5gs
+git clone https://github.com/kennethrey13/docker-open5gs
 cd docker-open5gs
 docker-compose up
 ```
